@@ -1,0 +1,11 @@
+featurs to select
+
+1. adunit  - as it define the generally space of where the ad would run so it is important if for some space is bidders are less thn it will increse the probability of winning
+2. no of bidders for that ad as it increse chances will increse
+3. bid amount   - if your bid amount is high there are more changes of getting it
+4. maximum_bid or sum_bid - it will define the relative position of your bid so affects the results
+5. size of the ad will also plays a role beacure it defines to attract the bidders and also flacuate the prices
+6. sum_time_to_respond = also early comes early win ( if that matters)
+7. timezone -  it affects the latency of the bidder also it may impact the probability
+
+

@@ -1,0 +1,16 @@
+
+Question - 
+bid_amount: Coefficient = 0.8
+time_to_bid: Coefficient = -0.4
+ad_unit_A: Coefficient = 0.3 (reference category: ad_unit_B)
+
+
+Answer - 
+bid_amount = 0.8 means incresing the bid_amount by 1 unit will increse the log odds of winning the bid by 0.8. it shows the stronges positive impact
+
+time_to_bid =  it is negetive means as you take more time to bid your chances gets decrease also it you increse the time by 1 unit it will decrease the log odds of winning the bid by 0.4
+
+ad_unit_A = as you can see by positive sign it increse the log odds of winning the b incresing since the value is very less means it do not have much larger impact by varing the value. its imac
+
+the incresing the log odds can be interpreted by =  log(p/(1-p)) =  w0 + 0.8 * bid amount -0.4*time_to_bid + 0.3*ad_unit_A
+p is the probability of winning adds 
